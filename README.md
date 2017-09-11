@@ -4,7 +4,7 @@
 
 > A simple jQuery plugin for picking provinces, cities and districts of China.
 
-- [Website](https://fengyuanchen.github.io/distpicker)
+- [Website](https://jianhua-chan.github.io/distpicker-master/docs/index.html)
 
 
 
@@ -39,8 +39,6 @@ dist/
 
 Four quick start options are available:
 
-- [Download the latest release](https://github.com/fengyuanchen/distpicker/archive/master.zip).
-- Clone the repository: `git clone https://github.com/fengyuanchen/distpicker.git`.
 - Install with [NPM](https://npmjs.com): `npm install distpicker`.
 - Install with [Bower](https://bower.io): `bower install distpicker`.
 
@@ -290,7 +288,7 @@ As a jQuery plugin, you also need to see the [jQuery Browser Support](http://jqu
 
 ## License
 
-[MIT](http://opensource.org/licenses/MIT) © [Fengyuan Chen](http://chenfengyuan.com)
+[MIT](http://opensource.org/licenses/MIT) © [jianhua-chan](https://jianhua-chan.github.io)
 
 
 [⬆ back to top](#table-of-contents)
